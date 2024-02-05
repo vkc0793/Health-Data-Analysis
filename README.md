@@ -10,7 +10,7 @@ Notably, the dataset outlines the medications prescribed to patients, offering v
 
 Overall, this dataset serves as a valuable resource for researchers, clinicians, and mental health professionals seeking to gain a deeper understanding of OCD and its manifestations within a diverse patient population.
 
-# About Colums:
+# About Columns:
 Patient ID
 Age
 Gender
